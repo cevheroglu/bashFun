@@ -1,2 +1,2 @@
 # bashFun
-Just a bash script to run 
+Just a fun and informational bash script to run 
