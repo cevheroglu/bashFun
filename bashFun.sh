@@ -1,7 +1,12 @@
 #!/bin/bash
 
-name=$1
-compliment=$2
+#name=$1
+echo -n "Enter your name= "
+read name
+
+#compliment=$2
+echo -n "What part of your body you want to be complimented? "
+read compliment
 
 echo "Goodmorning $name"
 sleep .3
